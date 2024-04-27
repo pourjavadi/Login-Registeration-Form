@@ -24,4 +24,4 @@ Users can register and log in to the site by entering their details in the regis
 This project is released under an open-source license. Please refer to the LICENSE file for more details.
 
 ## Author
-- [Author's Name] - Creator and maintainer of the project
+- Amir Pourjavadi - Creator and maintainer of the project
